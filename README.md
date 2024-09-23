@@ -1,0 +1,1 @@
+# plugins-optimize-images-resizing
